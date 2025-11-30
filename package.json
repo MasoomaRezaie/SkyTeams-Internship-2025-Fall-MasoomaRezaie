@@ -1,0 +1,24 @@
+{
+  "name": "skyteams-internship-2025-fall-masoomarezaie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasoomaRezaie/SkyTeams-Internship-2025-Fall-MasoomaRezaie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MasoomaRezaie/SkyTeams-Internship-2025-Fall-MasoomaRezaie/issues"
+  },
+  "homepage": "https://github.com/MasoomaRezaie/SkyTeams-Internship-2025-Fall-MasoomaRezaie#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
